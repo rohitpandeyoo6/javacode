@@ -3,6 +3,6 @@ public class HelloWorld{
         System.out.println("Hello Rohit");
         System.out.println("Welcome rohit to new git repo of java");
         System.out.println(100);
-        
+        System.out.println(500);
     }
 }
